@@ -1,4 +1,4 @@
-# featureCompression
+# Local Binary Feature Compression
 
 This repository contains an implementation of the feature compression used in: 
 
